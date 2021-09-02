@@ -26,6 +26,6 @@ In this thesis we explored the capabilities of machine learning for the detectio
 * Stacking
 
 ### Functions
-The key custom function used throughout are located in the file *Functions.ipynb*
+The key custom function used throughout are located in the file [Functions.ipynb](https://github.com/rachelt27/TFM2021/blob/main/Functions.ipynb)
 
 *The original dataset is not public
