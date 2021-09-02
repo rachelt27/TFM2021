@@ -3,7 +3,7 @@
 In this thesis we explored the capabilities of machine learning for the detection of incipient cognitive dysfunction that occurs in the early stages (Preclinical) of Alzheimer’s disease.  In particular we provide a tool for clinicians to distinguish which tests are sensitive enough to classify healthy subjects to those with Preclinical Alzheimer’s Disease. 
 
 ### Datasets
-1. Battery tests
+1. Battery tests*
 2. [Finger tapping tests](https://osf.io/2kje8/)
 
 ### Process
@@ -28,3 +28,4 @@ In this thesis we explored the capabilities of machine learning for the detectio
 ### Functions
 The key custom function used throughout are located in the file *Functions.ipynb*
 
+*The original dataset is not public
